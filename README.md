@@ -1,6 +1,6 @@
 # RMLEditor Community Edition
 
-This is the Community Edition for the [RMLEditor](https://rml.io/tools/rmleditor/).
+This is the community edition for the [RMLEditor](https://rml.io/tools/rmleditor/).
 It is available online at https://app.rml.io/rmleditor/.
 An introduction video to the RMLEditor can be found [here](https://www.youtube.com/watch?v=2y3M8QuGZpY).
 
