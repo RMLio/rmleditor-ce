@@ -1,6 +1,7 @@
-# RMLEditor Community Edition
+# RMLeditor Community Edition
 
-The RMLEditor Community Edition is available at https://app.rml.io/rmleditor/.
+This is the Community Edition for the [RMLEditor](https://rml.io/tools/rmleditor/).
+The RMLEditor Community Edition is available at online https://app.rml.io/rmleditor/.
 An introdution video to the RMLEditor can be found [here](https://www.youtube.com/watch?v=2y3M8QuGZpY).
 
 ## Limitations
@@ -12,3 +13,11 @@ An introdution video to the RMLEditor can be found [here](https://www.youtube.co
 
 If you have issues or problems,
 do not hesitate to create [an issue](https://github.com/RMLio/rmleditor-community/issues/new).
+
+## RMLEditor License
+
+If your needs aren't covered with this community edition,
+if you would like a local instance, remove the limitations,
+or are in any way interested in using the RMLEditor for your research or business,
+and talk about licensing, deployment, or customizations,
+do no hesitate to [contact us](mailto:info@rml.io)!
