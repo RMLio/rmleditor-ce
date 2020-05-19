@@ -1,4 +1,4 @@
-# RMLeditor Community Edition
+# RMLEditor Community Edition
 
 This is the Community Edition for the [RMLEditor](https://rml.io/tools/rmleditor/).
 The RMLEditor Community Edition is available at online https://app.rml.io/rmleditor/.
