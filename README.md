@@ -16,7 +16,7 @@ do not hesitate to create [an issue](https://github.com/RMLio/rmleditor-communit
 
 ## RMLEditor License
 
-If your needs aren't covered with this community edition,
+If your needs are not covered with this community edition,
 if you would like a local instance, remove the limitations,
 or are in any way interested in using the RMLEditor for your research or business,
 and talk about licensing, deployment, or customizations,
